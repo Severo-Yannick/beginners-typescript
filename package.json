@@ -1,0 +1,19 @@
+{
+  "name": "beginners-typescript",
+  "version": "1.0.0",
+  "description": "beginners typescript tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Yannick Severo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "vite-tsconfig-paths": "^4.2.0"
+  }
+}

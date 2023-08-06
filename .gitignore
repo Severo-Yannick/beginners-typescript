@@ -1,0 +1,34 @@
+# Dossiers spécifiques à macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Dossiers spécifiques à Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Fichiers d'éditeur
+*.log
+*.tmp
+*.swp
+*~
+
+# Fichiers de configuration spécifiques à certains éditeurs ou IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de build, dépendances et fichiers générés
+node_modules/
+dist/
+build/
+*.dll
+*.exe
+
+# Fichiers d'environnement ou de configuration locale
+.env
+config.js

@@ -15,7 +15,7 @@ interface Post {
  * How do we ensure that makeUser ALWAYS
  * returns a user?
  */
-const makeUserSolution = (): User => {
+export const makeUserSolution = (): User => {
   return {
     id: 1,
     firstName: "John",
